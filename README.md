@@ -128,3 +128,39 @@ Undo all unstaged changes:
 ```sh
 git reset --hard
 ```
+
+## Pushing to GitHub
+
+### Initialise your project
+
+```sh
+git init
+```
+
+### Create the project on GitHub
+
+1. Login to your [GitHub](https://github.com/) account.
+
+2. At the top right of any Github page, you should see a '+' icon. Click that, then select 'New Repository'.
+
+3. Give your repository a name--ideally the same name as your local project. If I'm building a travel application, its folder will be called 'travel-app' on my computer, and 'travel-app' will be the Github repository name as well.
+
+4. Click 'Create Repository'. The next screen you see will be important, so don't close it.
+
+### Connect your local project folder to your empty folder/repository on GitHub
+
+The screen you should be seeing now on Github is titled **'Quick setup — if you’ve done this kind of thing before'**.
+
+Copy the link in the input right beneath the title, it should look something like this:
+`https://github.com/mindplace/test-repo.git`
+This is the web address that your local folder will use to push its contents to the remote folder on GitHub.
+
+1. Go back to your project in the terminal/command line.
+
+2. In your terminal/command line (Git Bash), type `git remote add origin [copied web address]`
+    
+    Example: `git remote add origin https://github.com/mindplace/test-repo.git`
+
+3. Push your branch to Github: `git push origin master`
+
+4. Go back to the folder/repository screen on Github that you just left, and refresh it. The title **'Quick setup — if you’ve done this kind of thing before'** should disappear, and you should see your files there.
