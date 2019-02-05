@@ -105,6 +105,18 @@ git branch -d [branch-name]
 
 ### Other Common Commands
 
+Pull changes from GitHub:
+
+```sh
+git pull
+```
+
+Push your changes to GitHub:
+
+```sh
+git push
+```
+
 Shows a history of commits:
 
 ```sh
