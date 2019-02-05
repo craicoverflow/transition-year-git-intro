@@ -1,5 +1,4 @@
-Shopping List
---------------
+------------
 
 - bananas
 - apples
