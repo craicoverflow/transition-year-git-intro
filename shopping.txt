@@ -4,3 +4,5 @@ Shopping List
 - bananas
 - apples
 - toothpaste
+- butternut squash
+- croissants 
