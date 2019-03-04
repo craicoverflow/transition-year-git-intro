@@ -1,6 +1,6 @@
 # TY Intro to Git
 
-Learning how to use Git. hello
+Learning how to use Git.
 
 ## Getting Started
 

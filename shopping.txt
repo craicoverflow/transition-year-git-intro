@@ -3,8 +3,3 @@
 - bananas
 - apples
 - toothpaste
-<<<<<<< HEAD
-=======
-- butternut squash
-- croissants 
->>>>>>> fa832c40742d67103f91fe6e2e355dce314f2b4a
