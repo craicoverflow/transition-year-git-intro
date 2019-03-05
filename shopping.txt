@@ -3,3 +3,9 @@
 - bananas
 - apples
 - toothpaste
+- tomatoes
+- potatoes
+- bread
+- turnips
+- cheese
+- milk
