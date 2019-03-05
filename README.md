@@ -1,6 +1,7 @@
 # TY Intro to Git
 
 Learning how to use Git.
+Updating readme.
 
 ## Getting Started
 
