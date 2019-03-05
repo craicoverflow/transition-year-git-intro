@@ -4,3 +4,9 @@
 - apples
 - toothpaste
 - memes
+- tomatoes
+- potatoes
+- bread
+- turnips
+- cheese
+- milk
