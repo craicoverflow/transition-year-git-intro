@@ -3,3 +3,4 @@
 - bananas
 - apples
 - toothpaste
+- memes
